@@ -1,3 +1,6 @@
+![Gitlab pipeline status](https://img.shields.io/gitlab/pipeline/asinduvg/natours-landing/master?logo=GitLab)
+![Website](https://img.shields.io/website?up_message=online&url=https%3A%2F%2Fasinduvg.gitlab.io%2Fnatours-landing)
+![Lines of code](https://img.shields.io/tokei/lines/gitlab/asinduvg/natours-landing)
 # Natours
 This is the landing page for the fictional company 'Natours'.
 ### The site is live 👉 [natours](https://asinduvg.gitlab.io/natours-landing)
