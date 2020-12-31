@@ -1,0 +1,1 @@
+https://asinduvg.gitlab.io/natours-landing 
